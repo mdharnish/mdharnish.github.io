@@ -1,0 +1,31 @@
+---
+title: "Dharnish Muralidharan"
+image: "profile-pic.png"
+color1: "#5A59A3"
+color2: "#C66060"
+angle: 130
+links:
+  - label: GitHub
+    url: "https://github.com/mdharnish"
+output:
+  postcards::onofre
+---
+
+## Bio:
+
+My name is Dharnish Muralidharan, and I am a junior at The University of Texas at Austin majoring in Statistics and Data Science. I enjoy exploring how data can be transformed into meaningful insights and applied to solve real-world problems. I am a hardworking and dedicated student who thrives on challenges and continuous learning. Looking ahead, I aspire to begin my career as a Machine Learning Engineer, where I can apply my skills in data analysis, programming, and model building to develop innovative solutions that make a positive impact.
+
+## Interesting Facts About Me:
+
+* I can play the cello  
+* I used to compete in triple jump  
+* I can recite 50 digits of pi by memory  
+
+
+
+
+
+
+*This website was built on:* 
+
+`r format(Sys.time(), "%B %d, %Y at %I:%M:%S %p %Z")`
