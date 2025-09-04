@@ -21,11 +21,7 @@ My name is Dharnish Muralidharan, and I am a junior at The University of Texas a
 * I used to compete in triple jump  
 * I can recite 50 digits of pi by memory  
 
-
-
-
-
-
 *This website was built on:* 
 
 `r format(Sys.time(), "%B %d, %Y at %I:%M:%S %p %Z")`
+
